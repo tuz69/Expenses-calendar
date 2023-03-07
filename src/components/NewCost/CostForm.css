@@ -1,0 +1,22 @@
+.CostForm__title {
+    color: #fff;
+}
+
+
+.CostForm__name,
+.CostForm__sum,
+.CostForm__date {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.CostForm__btn-primary {
+    padding: 10px;
+}
+
+.CostForm__btn-add {
+
+    margin-right: 10px;
+}

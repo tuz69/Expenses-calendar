@@ -1,0 +1,7 @@
+.NewCost {
+    padding: 10px;
+    background-image: linear-gradient(310deg, #ff92ff 0, #ff88ff 16.67%, #df7bf1 33.33%, #b46cd8 50%, #8b5dbe 66.67%, #674fa5 83.33%, #47428f 100%);
+    border-radius: 15px;
+    box-shadow: 0px 1px 10px 2px rgba(0, 0, 0, 0.47);
+
+}
