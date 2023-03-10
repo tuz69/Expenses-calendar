@@ -5,12 +5,11 @@
   font-family: Consolas;
 }
 
-body {
 
-  margin: 20px;
-  background-image: linear-gradient(180deg, #f990ff 0, #a974ff 25%, #5353f2 50%, #0033b2 75%, #001979 100%);
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+  padding: 10px;
+  background: #2c2cbc;
+
 }
 
 .title {

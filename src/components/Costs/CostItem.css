@@ -17,7 +17,7 @@ li {
 .cost-item__description {
     display: flex;
     flex-direction: column-reverse;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .cost-item__name {
